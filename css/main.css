@@ -1,0 +1,17 @@
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+
+  background-color: #161616;
+}
+
+.ball {
+	height: 250px;
+	width: 250px;
+	background-color: #b54213;
+	border-radius: 50%;
+}
