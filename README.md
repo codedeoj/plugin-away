@@ -4,5 +4,7 @@
 
 **Author:** Deoj Balcanao
 
+**GH Pages** - https://codedeoj.github.io/plugin-away/
+
 ## Attributions
 - [animejs](https://animejs.com/documentation/)
